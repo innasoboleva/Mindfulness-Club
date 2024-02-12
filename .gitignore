@@ -1,0 +1,22 @@
+# Django
+*.sqlite3
+*.db
+__pycache__/
+*.pyc
+.env
+local_settings.py
+media/
+static/
+.vscode/
+.idea/
+*.swp
+
+# React
+node_modules/
+build/
+dist/
+.env
+.vscode/
+.idea/
+*.swp
+
